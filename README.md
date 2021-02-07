@@ -1,2 +1,2 @@
-# Koala-Airlines-User-Registration
+# Koala-Airlines-Lifestyle
 Python &amp; Android
