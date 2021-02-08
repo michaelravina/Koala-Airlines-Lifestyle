@@ -2,7 +2,7 @@
 <br />
 <p align="center">
  
- <img src="Images/koala_logo.png" width="250" height="250">
+ <img src="images/koala_logo.png" width="250" height="250">
   <h3 align="center">Koala Lifestyle</h3>
   <p align="center">
     Welcome to the koala lifestyle! 
@@ -53,18 +53,22 @@ A step by step guide on how to use the console:
 1. Initial Page where client inputs their names. 
 
 <p align="center">
-<img src = "Images/SS1.png" width = "550" height = "850">
+<img src = "images/SS2.png" width = "550" height = "850">
 </p>
 
 2. A display table with trimmed names is shown as a summary of the input data.
 
 <p align="center">
-<img src = "Images/3rd%20SS.png" width = "850" height = "450">
+<img src = "images/SS3.png" width = "850" height = "450">
 </p>
 
 3.The final output wherein the names are trimmed together with all the seat & gate numbers, security code, date & time, etc.
 
+<p align="center">
+<img src = "images/SS4.png" width = "850" height = "450">
+</p>
 
+4. 
 
 
 
