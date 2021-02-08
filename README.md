@@ -50,25 +50,25 @@ A step by step guide on how to use the app:
 <img src = "images/SS1.png" width = "300" height = "500">
 </p>
 
-1. Initial Page where client inputs their names. 
+1. Above is the login page of Koala Lifestyle, this is usually the first point of contact for most users.
 
 <p align="center">
 <img src = "images/SS2.png" width = "300" height = "500">
 </p>
 
-2. A display table with trimmed names is shown as a summary of the input data.
+2. New users will have to click the "Registration" button and input their desired username & verify their password.
 
 <p align="center">
 <img src = "images/SS3.png" width = "300" height = "500">
 </p>
 
-3.The final output wherein the names are trimmed together with all the seat & gate numbers, security code, date & time, etc.
+3. Once logged in, users will be then directed to the welcome page of the app.
 
 <p align="center">
 <img src = "images/SS4.png" width = "300" height = "500">
 </p>
 
-4. 
+4. Here we see the different options available to the user wherein he/she would be able to use in having a healthier lifestyle. 
 
 
 
