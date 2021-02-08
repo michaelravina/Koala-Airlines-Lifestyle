@@ -59,7 +59,7 @@ A step by step guide on how to use the app:
 2. New users will have to click the "Registration" button and input their desired username & verify their password.
 
 <p align="center">
-<img src = "images/SS3.png" width = "300" height = "500">
+<img src = "images/ss3.png" width = "300" height = "500">
 </p>
 
 3. Once logged in, users will be then directed to the welcome page of the app.
