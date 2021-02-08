@@ -68,7 +68,7 @@ A step by step guide on how to use the app:
 <img src = "images/SS4.png" width = "300" height = "500">
 </p>
 
-4. Here we see the different options available to the user wherein he/she would be able to use in having a healthier lifestyle. 
+4. Here we see the different options available to the user wherein he/she would be optimize towards a healthier lifestyle.
 
 NOTE: User data and its changes are automatically updated to a SQLite database.
 
