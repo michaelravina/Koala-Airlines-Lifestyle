@@ -45,27 +45,27 @@ The Covid pandamic has definitely impacted many lives, none so much within the a
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-A step by step guide on how to use the console: 
+A step by step guide on how to use the app: 
 <p align="center">
-<img src = "images/SS1.png" width = "650" height = "800">
+<img src = "images/SS1.png" width = "300" height = "500">
 </p>
 
 1. Initial Page where client inputs their names. 
 
 <p align="center">
-<img src = "images/SS2.png" width = "550" height = "850">
+<img src = "images/SS2.png" width = "300" height = "500">
 </p>
 
 2. A display table with trimmed names is shown as a summary of the input data.
 
 <p align="center">
-<img src = "images/SS3.png" width = "850" height = "450">
+<img src = "images/SS3.png" width = "300" height = "500">
 </p>
 
 3.The final output wherein the names are trimmed together with all the seat & gate numbers, security code, date & time, etc.
 
 <p align="center">
-<img src = "images/SS4.png" width = "850" height = "450">
+<img src = "images/SS4.png" width = "300" height = "500">
 </p>
 
 4. 
