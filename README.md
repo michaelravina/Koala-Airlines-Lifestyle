@@ -68,7 +68,9 @@ A step by step guide on how to use the app:
 <img src = "images/ss3.png" width = "300" height = "500">
 </p>
 
+<p align="center">
 3. Once logged in, users will be then directed to the welcome page of the app.
+</p>
 
 <br />
 <p align="center">
