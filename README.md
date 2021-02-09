@@ -81,6 +81,7 @@ A step by step guide on how to use the app:
 4. Here we see the different options available to the user wherein he/she would be optimize towards a healthier lifestyle.
 </p>
 
+<br />
 NOTE: User data and its changes are automatically updated to a SQLite database.
 
 <!-- CONTACT -->
