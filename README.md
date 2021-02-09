@@ -50,17 +50,19 @@ A step by step guide on how to use the app:
 <img src = "images/SS1.png" width = "300" height = "500">
 </p>
 
+<p align="center">
 1. Above is the login page of Koala Lifestyle, this is usually the first point of contact for most users.
+</p>
 
-<br />
 <br />
 <p align="center">
 <img src = "images/SS2.png" width = "300" height = "500">
 </p>
 
+<p align="center">
 2. New users will have to click the "Registration" button and input their desired username & verify their password.
+</p>
 
-<br />
 <br />
 <p align="center">
 <img src = "images/ss3.png" width = "300" height = "500">
@@ -69,12 +71,13 @@ A step by step guide on how to use the app:
 3. Once logged in, users will be then directed to the welcome page of the app.
 
 <br />
-<br />
 <p align="center">
 <img src = "images/SS4.png" width = "300" height = "500">
 </p>
 
+<p align="center">
 4. Here we see the different options available to the user wherein he/she would be optimize towards a healthier lifestyle.
+</p>
 
 NOTE: User data and its changes are automatically updated to a SQLite database.
 
